@@ -1,0 +1,2 @@
+我直接從計算color_transfer內的程式去取資料，
+所以原本程式跟color_transfer內更改過的__init__.py都一起傳了！
